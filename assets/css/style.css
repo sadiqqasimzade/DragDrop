@@ -1,0 +1,35 @@
+
+.dragArea{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.area{
+    display: inline-block;
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
+.varea{
+    display: inline-block;
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
+.farea{
+    display: inline-block;
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
+
+.fruit{
+    width: 10%;
+}
+.veg{
+    width: 10%;
+}
